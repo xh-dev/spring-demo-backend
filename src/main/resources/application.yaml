@@ -1,0 +1,6 @@
+spring:
+  mongodb:
+    uri: ${DB_URL}
+  data:
+    redis:
+      url: ${REDIS_URL}
